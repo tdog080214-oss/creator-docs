@@ -1,10 +1,8 @@
 ---
-title: Regional Pricing
-description: Regional pricing adjusts the price of your items based on a user's region.
----
+title: good trainer
+description:trains your horse
 
-With Regional Pricing, you can offer region-specific prices for your items and build a more inclusive and accessible global economy. After you determine a default global price for an item, Roblox uses a variety of signals like the region's purchasing power, currency exchange rates, and local spending behavior to set the most appropriate price for that item region by region.
-
+50robuks
 You can choose which of your items you want to price regionally. When you enable Regional Pricing for an item in your experience, Roblox automatically adjusts the price of that item for users based on their economic location.
 
 Economic location is not always the same as account location. To determine a user's economic location, Roblox looks at signals, including VPN usage, billing history, and account history. If their economic location can't be determined, users see the default global price for the item instead.
